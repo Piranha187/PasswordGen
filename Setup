@@ -1,0 +1,4 @@
+To run the script just do the folowing commands
+$ gedit PasswordGen 
+now cop yand paste the scipt into the window that popped up
+$ python3 PasswordGen
